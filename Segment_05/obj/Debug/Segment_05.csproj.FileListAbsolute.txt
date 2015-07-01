@@ -1,0 +1,11 @@
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\bin\Debug\Segment_05.exe.config
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\bin\Debug\Segment_05.exe
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\bin\Debug\Segment_05.pdb
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\obj\Debug\Segment_05.Main.resources
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\obj\Debug\Segment_05.Properties.Resources.resources
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\obj\Debug\Segment_05.RegisterStudent.resources
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\obj\Debug\Segment_05.StudentDetails.resources
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\obj\Debug\Segment_05.csproj.GenerateResource.Cache
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\obj\Debug\Segment_05.exe
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\obj\Debug\Segment_05.pdb
+C:\Users\Firnaz\Documents\Visual Studio 2012\Segment_05\Segment_05\obj\Debug\Segment_05.csprojResolveAssemblyReference.cache
